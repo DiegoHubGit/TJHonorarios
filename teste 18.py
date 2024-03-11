@@ -1,5 +1,0 @@
-No = str(input('Digite seu nome completo ')).  strip()
-Nome = No.split()
-print('Muito prazer em te conhecer!')
-print('Seu primeiro nome e {}'.format(Nome[0]))
-print('Seu ultimo nome e {}'.format(Nome[len(Nome)-1]))

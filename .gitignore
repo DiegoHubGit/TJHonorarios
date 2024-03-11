@@ -1,0 +1,11 @@
+# Diretório do ambiente virtual
+venv/
+
+# Diretórios e arquivos de configuração do PyCharm
+.idea/
+
+# Arquivos temporários ou de teste
+*.pyc
+__pycache__/
+teste*.py
+*.mp3
