@@ -1,0 +1,5 @@
+nome,data,hora_entrada,hora_saida,local_trabalho,turno,horas_trabalhadas
+Diego,2024-03-11,07:00,19:00,SDS,manha,11.0
+Ailton,2024-03-11,07:00,19:00,SDS,manha,11.0
+Diego,2024-03-09,19:00,07:00,METALFER,noite,12.0
+Ailton,2024-03-09,19:00,07:00,METALFER,noite,12.0
